@@ -29,24 +29,23 @@ Além disto, um editor para trabalhar com o código como [VSCode](https://code.v
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/brunereduardo/NextLevelWeek_2
+$ git clone https://github.com/brunereduardo/TwitterDB_USP
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd NextLevelWeek_2
+$ cd TwitterDB_USP
 
-# Instale as dependências
-$ npm install
+# Compile os arquivos .c e .h em um arquivo objeto com o segunite comando
+$ gcc main.c fun.c fun.h arq.c arq.h ed.c ed.h help.c help.h -o app
 
-# Execute a aplicação em modo de desenvolvimento
-$ npm run dev
+# Execute a aplicação com o segunite comando
+$ ./app
 
-# O servidor iniciará na porta:5500 - acesse <http://localhost:5500>
+# Existe um aqruivo Makefile no diretrótio que pode ser usado para contruir a aplicação via terminal com o comando make
 ```
-![Gif](https://github.com/brunereduardo/NextLevelWeek_2/blob/master/public/ezgif.com-gif-maker.gif)
 
 ### Features
 
-- [X] Cadastro de usuário
+- (X) Cadastro de usuário
 - [X] Cadastro de cliente
 - [X] Cadastro de produtos
 

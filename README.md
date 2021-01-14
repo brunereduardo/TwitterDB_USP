@@ -2,11 +2,10 @@
 
 ![TwitterSGDB](https://jornalggn.com.br/sites/default/files/2020/11/pesquisa-mostra-que-75-das-pessoas-acompanham-politica-pelo-twitter-twitterr.jpeg)
 
-#### [English version here!](google.com)
+#### [English version here!]((https://google.com)
 
 ## Descrição do Projeto
-<p align="justify"> Durante a Next Level Week estudei várias tecnologias totalmente voltadas à aplicação web responsiva (mobile first) como o HTML 5, CSS 3, Javascript (+JSON), SQlite (bem interessante aprender outro DB diferente do que nós temos contato na graduação) e por fim o NodeJs com seus módulos como : Nodemon (utilitário que monitora quaisquer mudanças no seu código fonte e reinicia automaticamente seu servidor)e Nunjucks (template engine aka como deixar seu HTML com esteroides).
-Quero deixar meu agradecimento aos instrutores da Rocketseat por essa semana imensa em conteúdos, mas que através dos métodos de ensino dos mentores fez com que fosse fácil de aprender em 7 dias várias tecnologias.</p>
+<p align="justify"> </p>
 
 
 <p align="center">

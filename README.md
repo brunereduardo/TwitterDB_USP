@@ -2,7 +2,7 @@
 
 ![TwitterSGDB](https://jornalggn.com.br/sites/default/files/2020/11/pesquisa-mostra-que-75-das-pessoas-acompanham-politica-pelo-twitter-twitterr.jpeg)
 
-#### [English version here!]((https://google.com)
+#### [English version here!](https://google.com)
 
 ## Descrição do Projeto
 <p align="justify"> </p>
@@ -57,5 +57,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <p>Este projeto está sob a licença MIT, para mais informações procurar pelo arquivo <a href = "https://github.com/brunereduardo/NextLevelWeek_2/blob/master/LICENSE">LICENSE</a></p>
 
-### Author
-Implementado e estudado com ❤️ por Bruner Eduardo Augusto Albrecht 👋🏽, idealizado e construido pela [RocketSeat](https://github.com/rocketseat-education). 
+### Authors
+Implementado e criado com ❤️ por [Bruner Eduardo Augusto Albrecht](https://github.com/brunereduardo) | [Felipe Oliveira](https://github.com/felipeoliveir4) 👋🏽

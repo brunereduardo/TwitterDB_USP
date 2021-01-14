@@ -11,8 +11,8 @@
 <p align="center">
 <a href="#Descrição-do-Projeto">Descrição do Projeto</a> •  
 <a href="#Pré-requisitos">Pré-requisitos</a> •	
-<a href="#License">License</a> • 
-<a href="#Author">Author</a>
+<a href="#Licença">Licença</a> • 
+<a href="#Autores">Autores</a>
 </p>
 
 <h4 align="center"> 
@@ -43,6 +43,12 @@ $ npm run dev
 # O servidor iniciará na porta:5500 - acesse <http://localhost:5500>
 ```
 ![Gif](https://github.com/brunereduardo/NextLevelWeek_2/blob/master/public/ezgif.com-gif-maker.gif)
+
+### Features
+
+- [ ] Cadastro de usuário
+- [ ] Cadastro de cliente
+- [ ] Cadastro de produtos
 
 ### 🚀 Tecnologias
 

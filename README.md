@@ -2,7 +2,7 @@
 
 ![TwitterSGDB](https://jornalggn.com.br/sites/default/files/2020/11/pesquisa-mostra-que-75-das-pessoas-acompanham-politica-pelo-twitter-twitterr.jpeg)
 
-#### [English version here!](https://google.com)
+#### [English version here!](https://github.com/brunereduardo/TwitterDB_USP/blob/main/README_en.md)
 
 ## Descrição do Projeto
 <p align="justify"> </p>

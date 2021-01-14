@@ -46,9 +46,9 @@ $ npm run dev
 
 ### Features
 
-- [ ] Cadastro de usuário
-- [ ] Cadastro de cliente
-- [ ] Cadastro de produtos
+- [x] Cadastro de usuário
+- [x] Cadastro de cliente
+- [x] Cadastro de produtos
 
 ### 🚀 Tecnologias
 

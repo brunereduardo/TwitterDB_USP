@@ -56,8 +56,8 @@ $ ./app
 8. [X] Estenda a funcionalidade busca para recuperar os dados armazenados no arquivo de dados pessoa associados aos dados no arquivo de dados segue, mostrando os dados de forma organizada na saída padrão para permitir a distinção dos campos e registros. Esta funcionalidade equivale a uma operação de junção, desde que ela “junta” dados de registros de dois arquivos usando com base em um campo de igualdade (condição de junção).
 9. [X] Permita a recuperação dos dados, de todos os registros, armazenados em arquivos de dados no formato binário e a geração de um grafo contendo esses dados na forma de um conjunto de vértices V e um conjunto de arestas A. A representação do grafo deve, obrigatoriamente, ser na forma de listas de adjacências
 10.[X] Gere o grafo transposto do grafo gerado na funcionalidade anterior. 
-11. [X] Determine o caminho mais curto entre cada pessoa que segue e uma determinada celebridade definida como parâmetro de entrada. Essa funcionalidade consiste em determinar os caminhos mais curtos com destino único.
-12. [x] Essa funcionalidade consiste em determinar se existe um ciclo no grafo, ou seja, se existe um caminho no qual o primeiro e o último vértices são iguais. No caso dessa funcionalidade, o primeiro e o último vértices devem ser correspondentes ao nome da pessoa que foi passado como parâmetro de entrada (Busca em profundidade).
+11. [ ] Determine o caminho mais curto entre cada pessoa que segue e uma determinada celebridade definida como parâmetro de entrada. Essa funcionalidade consiste em determinar os caminhos mais curtos com destino único.
+12. [ ] Essa funcionalidade consiste em determinar se existe um ciclo no grafo, ou seja, se existe um caminho no qual o primeiro e o último vértices são iguais. No caso dessa funcionalidade, o primeiro e o último vértices devem ser correspondentes ao nome da pessoa que foi passado como parâmetro de entrada (Busca em profundidade).
 13. [X] Tratamentos dos dados e tratamento de erros
 
 ### 🚀 Tecnologias

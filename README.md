@@ -11,19 +11,20 @@
 <p align="center">
 <a href="#Descrição-do-Projeto">Descrição do Projeto</a> •  
 <a href="#Pré-requisitos">Pré-requisitos</a> •	
+<a href="#Funções">Funções</a> •
 <a href="#Licença">Licença</a> • 
 <a href="#Autores">Autores</a>
 </p>
 
 <h4 align="center"> 
-	🚧  Construído durante o evento 🚧 Partindo para mais aprendizados web... 🚀 
+	🚧  Construído durante a matéria de Estrutura de Dados III em 2020 🚧 Ainda há melhoramento a ser feito no código ( BTREEs são o caminho) ... 🚧
 </h4>
 
 ### Pré-requisitos
 
-Para começar a se aventurar na aplicação você vai precisar instalar em sua máquina as seguintes ferramentas:
+Para começar a se aventurar pelo projeto você vai precisar instalar em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
-Além disto, um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/) servirá para todos os propósitos
+Além disto, um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/) servirá para todos os propósitos. Se você utilizar algum sistema operacional baseado em Linux, todas as bibliotecas necessárias já vem instaladas e você pode acessar suas definições através do comando ```man```. Se você utilizar um  sistema Windows será interessante pesquisar pelo Windows Subsystem for Linux (WSL) para facilitar sua vida em relação à  instalações de IDEs e Cygwin para compilar e rodar a aplicação.
 
 ### Rodando a Aplicação 🎲
 
@@ -40,10 +41,10 @@ $ gcc main.c fun.c fun.h arq.c arq.h ed.c ed.h help.c help.h -o app
 # Execute a aplicação com o segunite comando
 $ ./app
 
-# Existe um aqruivo Makefile no diretrótio que pode ser usado para contruir a aplicação via terminal com o comando make
+# Existe um aqruivo Makefile no diretório que pode ser usado para contruir a aplicação via terminal com o comando make
 ```
 
-### Features
+### Funções
 
  - [X] Cadastro de usuário
  - [ ] Cadastro de cliente

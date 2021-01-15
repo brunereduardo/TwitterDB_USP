@@ -45,9 +45,9 @@ $ ./app
 
 ### Features
 
- [v] Cadastro de usuário
- [X] Cadastro de cliente
- [X] Cadastro de produtos
+ - [X] Cadastro de usuário
+ - [ ] Cadastro de cliente
+ - [ ] Cadastro de produtos
 
 ### 🚀 Tecnologias
 

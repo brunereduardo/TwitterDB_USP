@@ -5,7 +5,7 @@
 #### [English version here!](https://github.com/brunereduardo/TwitterDB_USP/blob/main/README_en.md)
 
 ## Descrição do Projeto
-<p align="justify"> </p>
+<p align="justify"> AQUI</p>
 
 
 <p align="center">
@@ -45,14 +45,16 @@ $ ./app
 
 ### Features
 
-- (X) Cadastro de usuário
-- [X] Cadastro de cliente
-- [X] Cadastro de produtos
+ [v] Cadastro de usuário
+ [X] Cadastro de cliente
+ [X] Cadastro de produtos
 
 ### 🚀 Tecnologias
 
-As seguintes ferramentas e bibliotecas foram usadas na construção do projeto:
+As seguintes estruturas de dados, ferramentas e bibliotecas foram usadas na construção do projeto:
 
+- Lista encadeada
+- Digrafo (grafo direcional)
 - Hexdump
 - Valgrind
 - String.h

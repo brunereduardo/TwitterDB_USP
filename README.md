@@ -33,7 +33,7 @@ Além disto, um editor para trabalhar com o código como [VSCode](https://code.v
 $ git clone https://github.com/brunereduardo/TwitterDB_USP
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd TwitterDB_USP
+$ cd TwitterDB_USP/Codes
 
 # Compile os arquivos .c e .h em um arquivo objeto com o segunite comando
 $ gcc main.c fun.c fun.h arq.c arq.h ed.c ed.h help.c help.h -o app

@@ -7,8 +7,8 @@
 
 
 <p align="center">
-<a href="#Project-description"></a> •  
-<a href="#Prerequisites">Prerequisites/a> •	
+<a href="#Project-description">Project description</a> •  
+<a href="#Prerequisites">Prerequisites</a> •	
 <a href="#Features">Features</a> •
 <a href="#License">License</a> • 
 <a href="#Authors">Authors</a>

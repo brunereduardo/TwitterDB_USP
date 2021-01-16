@@ -3,7 +3,7 @@
 ![TwitterSGDB](https://jornalggn.com.br/sites/default/files/2020/11/pesquisa-mostra-que-75-das-pessoas-acompanham-politica-pelo-twitter-twitterr.jpeg)
 
 ## Project description
-<p align="justify"> O trabalho tem como objetivo armazenar e recuperar dados relacionados a pessoas que seguem pessoas no twitter. Visando atender aos requisitos de um bom projeto do banco de dados, são definidos dois arquivos de dados a serem utilizados nos trabalhos práticos: arquivo de dados pessoa e arquivo de dados segue. Portanto implemente um programa por meio do qual o usuário possa obter dados de um arquivo binário de entrada, consiga utilozar as funções descritas abaixo para gerar os arquivos de saida e gere um grafo direcionado, o qual poderá ser utilizado para realizar investigações interessantes dentro do contexto de redes sociais.</p>
+<p align="justify">The project aims to store and retrieve data related to people who follow people on twitter. In order to meet the requirements of a good database design, two data files are defined to be used in practical work: personal data file and data file follows. So implement a program through which the user can obtain data from an input binary file, be able to use the functions described below to generate the output files and generate a directed graph, which can be used to perform interesting investigations within the context of social networks.</p>
 
 
 <p align="center">
@@ -21,7 +21,7 @@
 ### Prerequisites
 
 To start venturing through the project you will need to install the following tools on your pc:
-[Git] (https://git-scm.com) and an editor to work with the code, like [VSCode] (https://code.visualstudio.com/), which will serve all purposes. If you use any Linux-based operating system, all the necessary libraries are already installed and you can access their definitions through the `` man`` command. If you use a Windows system it will be interesting to search for Windows Subsystem for Linux (WSL) to make your life easier in relation to the IDEs and Cygwin installations to compile and run the application.
+[Git](https://git-scm.com) and an editor to work with the code, like [VSCode](https://code.visualstudio.com/), which will serve all purposes. If you use any Linux-based operating system, all the necessary libraries are already installed and you can access their definitions through the `` man`` command. If you use a Windows system it will be interesting to search for Windows Subsystem for Linux (WSL) to make your life easier in relation to the IDEs and Cygwin installations to compile and run the application.
 
 ### Running the Application  🎲
 

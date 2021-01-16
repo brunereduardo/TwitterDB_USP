@@ -4,16 +4,16 @@
 
 #### [English version here!](https://github.com/brunereduardo/TwitterDB_USP/blob/main/README_en.md)
 
-## Descrição do Projeto
+## Project description
 <p align="justify"> O trabalho tem como objetivo armazenar e recuperar dados relacionados a pessoas que seguem pessoas no twitter. Visando atender aos requisitos de um bom projeto do banco de dados, são definidos dois arquivos de dados a serem utilizados nos trabalhos práticos: arquivo de dados pessoa e arquivo de dados segue. Portanto implemente um programa por meio do qual o usuário possa obter dados de um arquivo binário de entrada, consiga utilozar as funções descritas abaixo para gerar os arquivos de saida e gere um grafo direcionado, o qual poderá ser utilizado para realizar investigações interessantes dentro do contexto de redes sociais.</p>
 
 
 <p align="center">
-<a href="#Descrição-do-Projeto">Descrição do Projeto</a> •  
-<a href="#Pré-requisitos">Pré-requisitos</a> •	
+<a href="#Project-description"></a> •  
+<a href="#Prerequisites">Prerequisites/a> •	
 <a href="#Funções">Funções</a> •
-<a href="#Licença">Licença</a> • 
-<a href="#Autores">Autores</a>
+<a href="#License">License</a> • 
+<a href="#Authors">Authors</a>
 </p>
 
 <h4 align="center"> 
@@ -25,13 +25,13 @@
 Para começar a se aventurar pelo projeto você vai precisar instalar em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com) e um editor para trabalhar com o código, como [VSCode](https://code.visualstudio.com/), que servirá para todos os propósitos. Se você utilizar algum sistema operacional baseado em Linux, todas as bibliotecas necessárias já vem instaladas e você pode acessar suas definições através do comando ```man```. Se você utilizar um  sistema Windows será interessante pesquisar pelo Windows Subsystem for Linux (WSL) para facilitar sua vida em relação à  instalações de IDEs e Cygwin para compilar e rodar a aplicação.
 
-### Rodando a Aplicação 🎲
+### Running the Application  🎲
 
 ```bash
-# Clone este repositório
+# Clone this repository
 $ git clone https://github.com/brunereduardo/TwitterDB_USP
 
-# Acesse a pasta do projeto no terminal/cmd
+# Access the project folder on terminal/cmd
 $ cd TwitterDB_USP/Codes
 
 # Compile os arquivos .c e .h em um arquivo objeto com o segunite comando
@@ -73,7 +73,7 @@ As seguintes estruturas de dados, ferramentas e bibliotecas foram usadas na cons
 
 ### Licença
 
-<p>Este projeto está sob a licença MIT, para mais informações procurar pelo arquivo <a href = "https://github.com/brunereduardo/NextLevelWeek_2/blob/master/LICENSE">LICENSE</a></p>
+<p>This project is under the MIT license, for more information look for the file <a href = "https://github.com/brunereduardo/TwitterDB_USP/blob/main/LICENSE">LICENSE.</a></p>
 
 ### Autores
-Implementado e criado com ❤️ por [Bruner Eduardo Augusto Albrecht](https://github.com/brunereduardo) | [Felipe Oliveira](https://github.com/felipeoliveir4) 👋🏽
+Implemented  and built  with ❤️ by [Bruner Eduardo Augusto Albrecht](https://github.com/brunereduardo) | [Felipe Oliveira](https://github.com/felipeoliveir4) 👋🏽

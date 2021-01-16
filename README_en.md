@@ -2,8 +2,6 @@
 
 ![TwitterSGDB](https://jornalggn.com.br/sites/default/files/2020/11/pesquisa-mostra-que-75-das-pessoas-acompanham-politica-pelo-twitter-twitterr.jpeg)
 
-#### [English version here!](https://github.com/brunereduardo/TwitterDB_USP/blob/main/README_en.md)
-
 ## Project description
 <p align="justify"> O trabalho tem como objetivo armazenar e recuperar dados relacionados a pessoas que seguem pessoas no twitter. Visando atender aos requisitos de um bom projeto do banco de dados, são definidos dois arquivos de dados a serem utilizados nos trabalhos práticos: arquivo de dados pessoa e arquivo de dados segue. Portanto implemente um programa por meio do qual o usuário possa obter dados de um arquivo binário de entrada, consiga utilozar as funções descritas abaixo para gerar os arquivos de saida e gere um grafo direcionado, o qual poderá ser utilizado para realizar investigações interessantes dentro do contexto de redes sociais.</p>
 
@@ -11,19 +9,19 @@
 <p align="center">
 <a href="#Project-description"></a> •  
 <a href="#Prerequisites">Prerequisites/a> •	
-<a href="#Funções">Funções</a> •
+<a href="#Features">Features</a> •
 <a href="#License">License</a> • 
 <a href="#Authors">Authors</a>
 </p>
 
 <h4 align="center"> 
-	🚧  Construído durante a matéria de Estrutura de Dados 🚧 BTREEs são necessárias para escalar o código 🚧
+	🚧  Built during the course of Data Structure 🚧 BTREEs are needed to scale the code 🚧
 </h4>
 
-### Pré-requisitos
+### Prerequisites
 
-Para começar a se aventurar pelo projeto você vai precisar instalar em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com) e um editor para trabalhar com o código, como [VSCode](https://code.visualstudio.com/), que servirá para todos os propósitos. Se você utilizar algum sistema operacional baseado em Linux, todas as bibliotecas necessárias já vem instaladas e você pode acessar suas definições através do comando ```man```. Se você utilizar um  sistema Windows será interessante pesquisar pelo Windows Subsystem for Linux (WSL) para facilitar sua vida em relação à  instalações de IDEs e Cygwin para compilar e rodar a aplicação.
+To start venturing through the project you will need to install the following tools on your pc:
+[Git] (https://git-scm.com) and an editor to work with the code, like [VSCode] (https://code.visualstudio.com/), which will serve all purposes. If you use any Linux-based operating system, all the necessary libraries are already installed and you can access their definitions through the `` man`` command. If you use a Windows system it will be interesting to search for Windows Subsystem for Linux (WSL) to make your life easier in relation to the IDEs and Cygwin installations to compile and run the application.
 
 ### Running the Application  🎲
 
@@ -34,16 +32,16 @@ $ git clone https://github.com/brunereduardo/TwitterDB_USP
 # Access the project folder on terminal/cmd
 $ cd TwitterDB_USP/Codes
 
-# Compile os arquivos .c e .h em um arquivo objeto com o segunite comando
+# Compile the .c and .h files into an object file with the following command
 $ gcc main.c fun.c fun.h arq.c arq.h ed.c ed.h help.c help.h -o app
 
-# Execute a aplicação com o segunite comando para injetar qualquer caso de test e compare a saida com os arquivos .out
+# Run the application with the following command to inject any test case and compare the output with the .out files
 $ ./app < test.in
 
-# Há um aqruivo Makefile no diretório que pode ser usado para contruir a aplicação via terminal com o comando make
+# There is a Makefile in the directory that can be used to build the application via terminal with the make command
 ```
 
-### Funções
+### Features
 
 1. [X]  Faz a leitura de vários registros obtidos a partir de um arquivo de entrada (no formato .csv), e a gravação destes em um arquivo de dados de saída em formato binário, bem como um arquivo de saída binário com a indexação dos registros.
 2. [X] Permite a recuperação dos dados, de todos os registros, armazenados no arquivo de dados pessoa, mostrando os dados de forma organizada na saída padrão para permitir a distinção dos campos e registros
@@ -59,19 +57,19 @@ $ ./app < test.in
 12. [ ] Determinar se existe um ciclo no grafo, ou seja, se existe um caminho no qual o primeiro e o último vértices são iguais. No caso dessa funcionalidade, o primeiro e o último vértices devem ser correspondentes ao nome da pessoa que foi passado como parâmetro de entrada (Busca em profundidade).
 13. [X] Tratamentos dos dados e tratamento de erros
 
-### 🚀 Tecnologias
+### 🚀 Technology
 
-As seguintes estruturas de dados, ferramentas e bibliotecas foram usadas na construção do projeto:
+The following data structures, tools and libraries were used in the construction of the project:
 
-- Lista encadeada
-- Digrafo (grafo direcional)
+- Linked list
+- Digraph (grafo direcional)
 - Hexdump
 - Valgrind
 - String.h
 - Stdio.h
 - Stdlib.h
 
-### Licença
+### License
 
 <p>This project is under the MIT license, for more information look for the file <a href = "https://github.com/brunereduardo/TwitterDB_USP/blob/main/LICENSE">LICENSE.</a></p>
 

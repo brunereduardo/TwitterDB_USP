@@ -73,7 +73,7 @@ As seguintes estruturas de dados, ferramentas e bibliotecas foram usadas na cons
 
 ### Licença
 
-<p>Este projeto está sob a licença MIT, para mais informações procurar pelo arquivo <a href = "https://github.com/brunereduardo/NextLevelWeek_2/blob/master/LICENSE">LICENSE</a></p>
+<p>Este projeto está sob a licença MIT, para mais informações procurar pelo arquivo <a href = "https://github.com/brunereduardo/TwitterDB_USP/blob/main/LICENSE">LICENSE</a></p>
 
 ### Autores
 Implementado e criado com ❤️ por [Bruner Eduardo Augusto Albrecht](https://github.com/brunereduardo) | [Felipe Oliveira](https://github.com/felipeoliveir4) 👋🏽

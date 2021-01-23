@@ -39,8 +39,6 @@ $ gcc main.c fun.c fun.h arq.c arq.h ed.c ed.h help.c help.h -o app
 
 # Execute a aplicação com o seguinte comando para injetar qualquer caso de test e compare a saída com os arquivos .out
 $ ./app < test.in
-
-# Execute a aplicação com o seguinte comando para injetar qualquer caso de test e compare a saída com os arquivos .out
 ```
 
 ### Funções

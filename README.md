@@ -1,6 +1,6 @@
 # TwitterDB_USP
 
-![TwitterSGDB](https://jornalggn.com.br/sites/default/files/2020/11/pesquisa-mostra-que-75-das-pessoas-acompanham-politica-pelo-twitter-twitterr.jpeg)
+![TwitterSGDB](https://pbs.twimg.com/profile_images/1354489240717955073/YafGVJ_W.jpg)
 
 #### [English version here!](https://github.com/brunereduardo/TwitterDB_USP/blob/main/README_en.md)
 
